@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jinwonnn
+- 👋 Hi, I’m NAWONJIN
 - 👀 I’m interested in ML and Web(Django)
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on --
